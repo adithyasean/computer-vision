@@ -13,3 +13,8 @@ wheels/
 *.json
 *.csv
 *.png
+
+# Models and Protobufs
+*.caffemodel
+*.prototxt
+*.onnx

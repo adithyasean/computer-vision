@@ -27,4 +27,7 @@ dependencies = [
     "torchvision>=0.26.0",
     "tqdm>=4.67.3",
     "ultralytics>=8.4.48",
+    "onnxruntime>=1.26.0",
+    "streamlit>=1.58.0",
+    "watchdog>=6.0.0",
 ]

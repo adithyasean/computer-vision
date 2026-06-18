@@ -45,7 +45,7 @@ computer-vision/
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/adithyasean/computer-vision.git
 cd computer-vision
 ```
 

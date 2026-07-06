@@ -21,3 +21,9 @@ notebooks/data
 *.caffemodel
 *.prototxt
 *.onnx
+
+# Training artifacts
+checkpoints/
+logs/
+notebooks/checkpoints/
+notebooks/logs/

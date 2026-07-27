@@ -15,6 +15,7 @@ wheels/
 *.png
 
 # Ignore data artifacts
+data/
 notebooks/data
 
 # Models and Protobufs

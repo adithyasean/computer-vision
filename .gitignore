@@ -17,6 +17,11 @@ wheels/
 # Ignore data artifacts
 data/
 notebooks/data
+lgg-mri-segmentation/
+kaggle_3m/
+images/
+masks/
+*.zip
 
 # Models and Protobufs
 *.caffemodel
